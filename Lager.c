@@ -1,6 +1,6 @@
 /* Gruppe E1, Lager
- * Andreas Gebel, 7009533
- * Le Quan Tran, 7009451
+ * Andreas Gebel
+ * Le Quan Tran
  */
 
 #include <rtai_mbx.h>
